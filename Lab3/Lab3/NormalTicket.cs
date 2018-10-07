@@ -8,7 +8,6 @@ namespace Lab3
 {
     public class NormalTicket : Ticket
     {
-        //dsaasdads
         public bool Day;
         public bool Single = false;
         public bool International = false;
